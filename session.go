@@ -1,4 +1,4 @@
-package GoPackage
+package Session
 
 import (
 	"encoding/binary"
